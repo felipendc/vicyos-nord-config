@@ -1,7 +1,9 @@
-delay=1
+delay=5
 region=1
 action=1
 show_mouse=0
-title=ArcoLinux
+title=VicyosLinux
 timestamp=TRUE
 app=nomacs
+last_user=
+screenshot_dir=file:/home/vicyos/Pictures
